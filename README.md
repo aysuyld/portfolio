@@ -3,7 +3,7 @@
 ## Data Scientist
 
 ### Education
-Computer Engineering
+Computer Engineering at Kutahya Dumlupinar University
 
 ### Work Experience
 Intern @ April Software
@@ -81,7 +81,7 @@ to effectively utilize the data. I am team-oriented, have problemsolving skills
 learning
 
 ### Projects
-
-projects
-
+- Cancer Classification
+- Stroke Prediction with FastAPI
+- Leaf Disease Prediction
 
