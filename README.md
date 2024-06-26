@@ -81,7 +81,11 @@ to effectively utilize the data. I am team-oriented, have problemsolving skills
 learning
 
 ### Projects
-- Cancer Classification
+- Cancer Classification Prediction
 - Stroke Prediction with FastAPI
 - Leaf Disease Prediction
+- Customer Churn Prediction
+- House Price Prediction
+- Data_Analysis_Telecom_Domain
+- Data_Analyst_Hospitality_Domain
 
