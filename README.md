@@ -10,7 +10,7 @@ Intern @ April Software
 - I created small hacking Programs with Python
 
 Intern @ Elsa Bilişim
-- I learn about network devices
+- I learned about network devices
 - I worked in the field with team
 
 ### Skills
