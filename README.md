@@ -88,4 +88,5 @@ learning
 - House Price Prediction
 - Data_Analysis_Telecom_Domain
 - Data_Analyst_Hospitality_Domain
+- Heart Attack Prediction
 
