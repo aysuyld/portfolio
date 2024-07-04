@@ -77,7 +77,7 @@ Additionally, I have gained experience with tools and platforms such
 as FastAPI, Flask Server, Azure, and GCP. I am proficient in connecting 
 to databases and performing observations using SQL queries. This 
 skill enables me to make decisions based on the results obtained and 
-to effectively utilize the data. I am team-oriented, have problemsolving skills, and have an open-minded approach to continuous 
+to effectively utilize the data. I am team-oriented, have problem-solving skills, and have an open-minded approach to continuous 
 learning
 
 ### Projects
